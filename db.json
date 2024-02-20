@@ -1,8 +1,45 @@
 {
-    "raccoons": [
-        {
-            "id": 1,
-            "name": "Bob"
-        }
-    ]
+  "trucks": [
+    {
+      "id": 1,
+      "name": "Bob",
+      "model": "Peterbilt",
+      "location": "Florida",
+      "insurance": "35,000"
+    },
+    {
+      "id": 2,
+      "name": "Dave",
+      "model": "Kenworth",
+      "location": "Alabama",
+      "insurance": "30,000"
+    },
+    {
+      "id": 3,
+      "name": "James",
+      "model": "Volvo",
+      "location": "Texas",
+      "insurance": "40,000"
+    },
+    {
+      "name": "Aaron",
+      "location": "11 Broadway",
+      "id": 4
+    },
+    {
+      "name": "Aaron",
+      "location": "11 Broadway",
+      "id": 5
+    },
+    {
+      "name": "Aaron",
+      "location": "11 Broadway",
+      "id": 6
+    },
+    {
+      "name": "Chet",
+      "location": "11 Braodway",
+      "id": 7
+    }
+  ]
 }
